@@ -1,0 +1,2 @@
+palabrareturnclases.Suma
+palabrareturnclases.PalabraReturnClases
